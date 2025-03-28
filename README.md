@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm yukino</h1>
 <h3 align="center">A backend developer from Vladimir</h3>
 
-- 🌱 I’m currently learning **Go, python ML/AI**
+- 🌱 I’m currently learning **Python Data Analyst, Golang Backend**
 
 - 📫 How to reach me **lukjanov.nikita-luk@yandex.ru**
 
-- ⚡ Fun fact **Immortal in Dota 2 XD)**
+- ⚡ Fun fact **Immortal in Dota 2 =)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
