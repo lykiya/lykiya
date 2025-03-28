@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm yukino</h1>
 <h3 align="center">A backend developer from Vladimir</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yukinogolang&label=Profile%20views&color=0e75b6&style=flat" alt="yukinogolang" /> </p>
-
 - 🌱 I’m currently learning **Go, python ML/AI**
 
 - 📫 How to reach me **lukjanov.nikita-luk@yandex.ru**
