@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm yukino</h1>
 <h3 align="center">A backend developer from Vladimir</h3>
 
-- 🌱 I’m currently learning **Python Data Analyst, Golang Backend**
+- 🌱 I’m currently learning **Golang Backend Development**
 
 - 📫 How to reach me **lukjanov.nikita-luk@yandex.ru**
 
