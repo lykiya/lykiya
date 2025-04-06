@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Golang Backend Development**
 
-- 📫 How to reach me **lukjanov.nikita-luk@yandex.ru**
+- 📫 How to reach me **lukiya-offers@yandex.ru**
 
 - ⚡ Fun fact **Immortal in Dota 2 =)**
 
