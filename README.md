@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm lykiya</h1>
 
-<img src="https://media1.tenor.com/m/X3swFIwTa78AAAAd/good-morning.gif" width="600" height="400"/>
+<img src="https://media1.tenor.com/m/X3swFIwTa78AAAAd/good-morning.gif" width="1000" height="200"/>
 
 
 <h3 align="center">A backend developer from Vladimir</h3>
