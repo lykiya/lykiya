@@ -5,7 +5,7 @@
 
 <h3 align="center">A backend developer from Vladimir</h3>
 
-- 🌱 I’m currently learning **Golang Backend Development and Studying Cybersecurity** <img src="https://steamuserimages-a.akamaihd.net/ugc/2010344537957969258/BE267050CB2F36AD04399B403CEC02E6ED651549/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"/>
+- 🌱 I’m currently learning **Golang Backend Development and Studying Cybersecurity** <img src="https://avatars.mds.yandex.net/i?id=cb564fd3ff2c73b362726c645e7d470f_l-12422078-images-thumbs&n=13"/>
 
 - 📫 How to reach me **lukiya-offers@yandex.ru**
 
